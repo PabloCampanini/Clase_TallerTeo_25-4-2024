@@ -1,0 +1,11 @@
+Productos
+Id  -- 
+Stock
+Precio  --
+Marca
+Descripcion --
+Foto, img
+Categorias
+SKU (codigo unico del producto)
+TieneDescuento
+Descuento
